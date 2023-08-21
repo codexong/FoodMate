@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/tab_home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/tab_chat"
+        android:enabled="true"
+        android:icon="@drawable/chat"
+       />
+
+    <item
+        android:id="@+id/tab_calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        />
+
+    <item
+        android:id="@+id/tab_my"
+        android:enabled="true"
+        android:icon="@drawable/info"
+        />
+</menu>

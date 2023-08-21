@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/login"
+        android:enabled="true"
+        android:title="로그인"
+        app:itemIconTint="@color/tab_selection_color"
+        android:icon="@drawable/login"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/logout"
+        android:enabled="true"
+        app:itemIconTint="@color/tab_selection_color"
+        android:icon="@drawable/logout"
+        android:title="로그아웃"
+        app:showAsAction="always"/>
+
+
+
+</menu>

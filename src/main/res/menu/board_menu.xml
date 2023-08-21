@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/barlist"
+        android:title="맛집 리스트 보기"/>
+    <item
+        android:id="@+id/writing"
+        android:title="모집글 작성"/>
+
+    <item
+        android:id="@+id/mywriteview"
+        android:title="내가 작성한 글 보기"/>
+
+</menu>
